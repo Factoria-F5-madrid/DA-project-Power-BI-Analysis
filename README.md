@@ -1,8 +1,9 @@
-# 🚀 PROYECTO BUSINESS INTELLIGENCE: Dashboard Analytics en Power BI
+# 🚀 Dashboard Analytics en Power BI
 
-![PowerBI Dashboard](https://github.com/user-attachments/assets/f9a0c97d-856b-4b33-b448-c20f0deb2979)
+<img width="11520" height="3456" alt="Banner-power-BI" src="https://github.com/user-attachments/assets/80acade7-8274-4f52-8598-b3df2b701642" />
 
-## 📜 Briefing: PROYECTO DE BUSINESS INTELLIGENCE 
+
+## 📜 Briefing: 
 
 ### 🔍 Planteamiento  
 
