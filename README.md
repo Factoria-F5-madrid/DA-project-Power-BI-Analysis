@@ -3,7 +3,22 @@
 <img width="11520" height="3456" alt="Banner-power-BI" src="https://github.com/user-attachments/assets/80acade7-8274-4f52-8598-b3df2b701642" />
 
 
-## 📜 Briefing: 
+## 🔗 Este proyecto cierra la cadena
+
+Con los mismos equipos, este es el **tercer acto** de un mismo recorrido:
+
+| | Qué hicisteis | Con qué |
+| :--- | :--- | :--- |
+| **Proyecto III** | Extrajisteis un dataset analítico a mano y decidisteis el grano | SQL |
+| **Proyecto IV** | Convertisteis esa extracción en un ETL automático y montasteis un dashboard | Python + Excel |
+| **Proyecto V** | **Rehacéis ese mismo dashboard con la herramienta profesional** | Power BI |
+
+Ya conocéis los datos, ya sabéis qué preguntas responde el negocio y ya habéis chocado con los límites de Excel. Aquí tenéis la herramienta que hace lo que allí no podíais: modelo en estrella, medidas DAX, interactividad de verdad.
+
+> [!TIP]
+> Sacad la lista de «esto lo quería hacer y el Excel no me dejaba» que anotasteis en el Proyecto IV. Ese es vuestro guion.
+
+## 📜 Briefing
 
 ### 🔍 Planteamiento  
 
@@ -30,6 +45,10 @@ herramientas de BI profesionales.
 * **Extraer insights accionables** para decisiones de negocio  
 
 ---
+
+## 👥 Equipos
+
+**Equipos de 3 o 4 personas**, los mismos que en los Proyectos III y IV.
 
 ## 📦 Condiciones de Entrega  
 
@@ -60,7 +79,27 @@ Para la fecha de entrega, los equipos deberán presentar:
 
 ---
 ## 🏆 Datos
+
+Elegid **una** de las dos vías:
+
+### 🅰️ Continuidad · Olist *(por defecto)*
+
+Los CSV que genera el ETL de vuestro **Proyecto IV**. Es la opción recomendada: ya conocéis el dominio, el grano está decidido y podéis comparar directamente vuestro dashboard de Excel con el de Power BI.
+
+Si necesitáis recargar la base, el volcado está en la [carpeta de formación en Drive](https://drive.google.com/drive/folders/1apSXjn6eQ5o9RdutbD4skSjvH6ytvR06?usp=sharing) (`olist.sql.gz`).
+
+### 🅱️ Cambio de aire · AirBnB
+
+Si vuestro equipo prefiere empezar con datos nuevos, el planteamiento de arriba —la consultora de BI contratada por AirBnB— sigue vigente con sus propios datos:
+
 [AirBnB ciudades CSV](https://drive.google.com/drive/folders/17sYr63LjEX30-3-KjXIaPP-bRwEmMqpf)
+
+### 🆓 Vuestros propios datos
+
+Como siempre, podéis traer otra fuente. Justificadla en el README y aseguraos de que da para los niveles de entrega.
+
+> [!NOTE]
+> Los **niveles de entrega** de más abajo están redactados sobre el caso AirBnB. Si vais por Olist, la equivalencia es directa: precios → `price` y `payment_value`, ubicación → estados y ciudades de Brasil, disponibilidad → estados del pedido y tiempos de entrega, y el análisis comparativo entre ciudades pasa a ser entre **estados o categorías de producto**.
 
 ## 🏆 Niveles de Entrega  
 
